@@ -1,2 +1,0 @@
-# fullstack
-my first repository
